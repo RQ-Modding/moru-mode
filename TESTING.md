@@ -38,7 +38,7 @@ on: `rolls`, `game`, the characters the game grew, and `extra`, `{ iic, why }` f
 switches added, `why` being `"fallen"`, `"level"` or `"reserve"`) and `row_id` (the support menu
 row's choice id). Put back what you set: the values stay in the save.
 
-## Test Lab
+## Tested in the game
 
-`test-lab/scenarios/moru-mode.lua`: fights with Moru Mode off and on, each switch off and on, the
+The Test Lab's scenario `moru-mode`: fights with Moru Mode off and on, each switch off and on, the
 rolls counted per item, a rank's stats, the caps, the page, and the support menu's row.
