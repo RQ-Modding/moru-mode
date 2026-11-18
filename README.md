@@ -3,6 +3,10 @@
 A mode of its own beside TADA mode: it speeds up what TADA mode leaves alone. For now, the growth of
 **Talent** and **Talent R** equipment.
 
+## Showcase
+
+<img width="1268" height="916" alt="image" src="https://github.com/user-attachments/assets/0c8c00a2-1740-446d-a6ec-e5fafa2434bb" />
+
 ## What it changes
 
 While Moru Mode is on in a save:
